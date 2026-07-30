@@ -54,7 +54,7 @@ This application performs all password analysis **locally in the browser**. No p
 
 ## 📸 Screenshots
 
-> Add screenshots of your application here.
+<img width="1324" height="626" alt="Image" src="https://github.com/user-attachments/assets/50492d30-fbfc-4d79-8816-49d0bd5536bf" />
 
 ## 👨‍💻 Developed By
 
